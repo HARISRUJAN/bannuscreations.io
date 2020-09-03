@@ -272,6 +272,9 @@ input{
 /*---------------------------MOBILE --------------------------------------*/
 
 @media only screen and (max-width: 650px) {
+ .hea{
+	 width:100%;
+}
 	td{
 	color: red;
 	height: 15px;
