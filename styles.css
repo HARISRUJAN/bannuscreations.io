@@ -273,7 +273,7 @@ input{
 
 @media screen and (max-width: 800px) {
  .hea{
-	 width:150%;
+	 width:100%;
 }
 td{
 	color: red;
