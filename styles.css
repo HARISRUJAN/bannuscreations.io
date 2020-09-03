@@ -273,14 +273,21 @@ input{
 
 @media screen and (max-width: 650px) {
  .hea{
-	 width:100%;
+	 width:120%;
 }
-	td{
+td{
 	color: red;
 	height: 15px;
 	padding: 10px;
 	align-content: right;
 	
+}
+.container{
+	display: flex;  
+	flex-direction:column-reverse;
+    justify-content: space-around; 
+   
+
 }
 .mid{
 	text-align:center;
