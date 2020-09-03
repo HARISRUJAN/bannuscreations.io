@@ -49,6 +49,7 @@ td{
 	/*background-image: url("https://lh3.googleusercontent.com/proxy/IpN_8RqnB0kT3zv0rN8z-kucrT7Al8LKlyoLncRiR5ErEma6_7OGT94LP7W0cyvmaerMpjLKrpE2C1RHsCc6OVuWBWxetLQUMQ5gwtFSxaXPpbocT4QIE6_kmA");*/
 	background-image: url("https://trendideas.site/wp-content/uploads/2019/02/355f7952b8c3545a231414ec46aaef27--twitter-backgrounds-twitter-headers.jpg");
 	background-size:cover;
+	position:absolute;
 	box-shadow: 2px 7px 5px 0px rgba(0,0,0,0.75);
 }
 
