@@ -271,7 +271,7 @@ input{
 
 /*---------------------------MOBILE --------------------------------------*/
 
-@media only screen and (max-width: 650px) {
+@media screen and (max-width: 650px) {
  .hea{
 	 width:100%;
 }
