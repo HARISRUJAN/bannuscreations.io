@@ -64,6 +64,7 @@ img{
 .mid
 {	
 	margin-top: 650px;
+	width: 100%;
 	position: absolute;
 	color: red;
 	text-align:center;
@@ -400,3 +401,4 @@ input{
 
 
 }
+
